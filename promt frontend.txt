@@ -1,0 +1,50 @@
+Act as a senior React frontend engineer.
+
+I am building a local AI Photo Generator application using:
+
+- React + Vite
+- FastAPI backend
+- Tailwind CSS
+- Future AI integration with Stable Diffusion
+
+Current project structure:
+
+src/
+├── api/
+├── assets/
+├── components/
+│   ├── Navbar.jsx
+│   ├── PromptBox.jsx
+│   └── ImagePreview.jsx
+├── pages/
+│   ├── Home.jsx
+│   ├── Generate.jsx
+│   └── Gallery.jsx
+├── App.jsx
+└── main.jsx
+
+Requirements:
+
+1. Create a modern dark theme UI.
+2. Create a responsive Navbar component.
+3. Create a professional AI prompt input section.
+4. Create a Generate button with loading state.
+5. Create an ImagePreview component with placeholder image area.
+6. Create a Gallery page UI showing previously generated images.
+7. Use reusable React components.
+8. Use clean folder structure.
+9. Use functional components and React hooks.
+10. Add Tailwind styling throughout.
+11. Keep code production-ready and scalable.
+12. Do not use any external UI library yet.
+13. Add comments explaining important parts.
+
+Generate complete code for:
+- App.jsx
+- Navbar.jsx
+- PromptBox.jsx
+- ImagePreview.jsx
+- Generate.jsx
+- Gallery.jsx
+
+Use modern React best practices.
